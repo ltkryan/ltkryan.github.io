@@ -1,6 +1,6 @@
 baseurl = "https://ltkryan.github.io"
 title = "ltkryan"
-theme = "hugo-coder"
+theme = "hugo-coder-local"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
